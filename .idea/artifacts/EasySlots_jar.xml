@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EasySlots:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="EasySlots.jar">
+      <element id="module-output" name="EasySlots" />
+    </root>
+  </artifact>
+</component>

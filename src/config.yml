@@ -1,0 +1,11 @@
+# -------------------
+# Config.yml File for EasySlots
+# -------------------
+
+EasySlots:
+  Prefix: '&8[&7Easy&fSlots&8] '
+  MoreThanOnline: 1
+
+Messages:
+  NoPermission: '&fYou don''t have the Permission &7%perm% &fto execute this command.'
+  Success: '&fSuccessfully reloaded the Config File in &7%ms%&f.'

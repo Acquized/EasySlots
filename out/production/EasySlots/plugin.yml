@@ -1,0 +1,8 @@
+name: EasySlots
+version: 1.0.0
+author: FlareReturns
+main: io.github.flarereturns.easyslots.bukkit.Main
+commands:
+  easyslots:
+    description: EasySlots Bukkit Command
+    usage: /easyslots reload
